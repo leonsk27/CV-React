@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CV-React/static/css/main.f855e6bc.css",
+    "main.js": "/CV-React/static/js/main.74b97e40.js",
+    "static/js/488.bb098057.chunk.js": "/CV-React/static/js/488.bb098057.chunk.js",
+    "static/media/prueba.jpg": "/CV-React/static/media/prueba.c4048784f3513e69e6f1.jpg",
+    "service-worker.js": "/CV-React/service-worker.js",
+    "static/media/logo.svg": "/CV-React/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/CV-React/index.html",
+    "main.f855e6bc.css.map": "/CV-React/static/css/main.f855e6bc.css.map",
+    "main.74b97e40.js.map": "/CV-React/static/js/main.74b97e40.js.map",
+    "488.bb098057.chunk.js.map": "/CV-React/static/js/488.bb098057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.74b97e40.js"
+  ]
+}
