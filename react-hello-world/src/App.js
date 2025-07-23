@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-         CURRICULUM GRUPO
+         CURRICULUM GRUPO ALAN, NEFTA, BORIS, OJEDA
         </p>
         <img src={prueba} className="App-logo" alt="logo" />
         
